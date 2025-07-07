@@ -1,0 +1,55 @@
+{
+    "id": "9868a071-9a0b-4b03-9da2-922f0693a3a1",
+    "name": "Session_Model",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+        {
+            "id": "E2AE191D-8829-44C3-A373-3749A2742D4D",
+            "name": "Service Declaration",
+            "publisher": "Microsoft",
+            "version": "24.5.23489.23968"
+        },
+        {
+            "id": "3D5B2137-EFEB-4014-8489-41D37F8FD4C3",
+            "name": "Late Payment Prediction",
+            "publisher": "Microsoft",
+            "version": "24.5.23489.23968"
+        },
+        {
+            "id": "70912191-3C4C-49FC-A1DE-BC6EA1AC9DA6",
+            "name": "Intrastat Core",
+            "publisher": "Microsoft",
+            "version": "24.5.23489.23968"
+        },
+        {
+            "id": "EC255F57-31D0-4CA2-B751-F2FA7C745ABB",
+            "name": "Shopify Connector",
+            "publisher": "Microsoft",
+            "version": "24.5.23489.23968"
+        }
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.5.23489.23968",
+    "idRanges": [
+        {
+            "from": 60000,
+            "to": 60049
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": ["NoImplicitWith"]
+}

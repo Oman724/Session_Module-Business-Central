@@ -26,6 +26,12 @@ page 60009 "Role Center"
             {
                 ApplicationArea = All;
             }
+
+
+            part(ItemCues; "Item Status Cues")
+            {
+                ApplicationArea = All;
+            }
         }
     }
     actions

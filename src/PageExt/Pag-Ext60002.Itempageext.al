@@ -7,7 +7,6 @@ pageextension 60002 Itempageext extends "Item Card"
     layout
     {
         addafter(Item)
-        // addfirst(item)
         {
             group(Detail)
             {

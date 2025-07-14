@@ -22,8 +22,6 @@ pageextension 60003 "Sales Order Page Ext" extends "Sales Order"
         }
         addbefore(SalesLines)
         {
-
-
             part(salesPaymentMethod; "Sales Payment Method Page")
             {
                 ApplicationArea = All;
